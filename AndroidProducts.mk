@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyondx.mk
+    $(LOCAL_DIR)/voltage_beyondx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyondx-eng \
-    lineage_beyondx-user \
-    lineage_beyondx-userdebug
+    voltage_beyondx-eng \
+    voltage_beyondx-user \
+    voltage_beyondx-userdebug
