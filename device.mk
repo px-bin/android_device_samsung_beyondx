@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
 TARGET_DISABLE_MATLOG := true
 
 #Sign Builds
--include vendor/lineage-priv/keys/keys.mk
 
 # Display
 PRODUCT_COPY_FILES += \
